@@ -32,9 +32,9 @@
 6. What are the advantages of relational databases?
 
 7. State four types of data type used to store data in tables?
-   
+
 8. What is the purpose of a database management system (DBMS)?  
 
 *How to edit a [markdownfile](https://www.markdownguide.org/basic-syntax/#headings)*
 
-###  NOTE: You should not fork the repository
+### NOTE: You should not fork the repository
